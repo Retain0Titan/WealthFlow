@@ -1,0 +1,6 @@
+1 Food
+2 Travel
+3 Bills
+4 Shopping
+5 Health
+6 Other
